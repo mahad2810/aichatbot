@@ -17,7 +17,7 @@ export function ChatHeader({ onNewChat, messageCount }: ChatHeaderProps) {
             <Sparkles className="h-5 w-5 text-blue-400 mr-1" />
             <MessageSquare className="h-6 w-6 text-green-500" />
           </div>
-          <h1 className="text-xl font-semibold text-gray-100">Gemini Chat</h1>
+          <h1 className="text-xl font-semibold text-gray-100">MaverickBot</h1>
           {messageCount > 0 && <span className="text-sm text-gray-400">({messageCount} messages)</span>}
         </div>
 

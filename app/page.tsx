@@ -34,10 +34,9 @@ export default function ChatPage() {
                   <Sparkles className="h-8 w-8 text-blue-400 mr-2" />
                   <MessageSquare className="h-8 w-8 text-green-500" />
                 </div>
-                <h2 className="text-xl font-semibold text-gray-200 mb-2">Welcome to Gemini Chat</h2>
+                <h2 className="text-xl font-semibold text-gray-200 mb-2">Welcome to MaverickBot</h2>
                 <p className="text-gray-400">
-                  Start a conversation with Google's Gemini AI. Your chat history will be remembered for context-aware
-                  responses.
+                  Start a conversation with MaverickBot — your personal AI assistant. Your chat history will be remembered for context-aware responses.
                 </p>
                 <div className="mt-4 text-xs text-gray-500">Powered by Google Gemini 2.0 Flash</div>
               </Card>
